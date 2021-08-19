@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: jarvis
+Version: 1.0.0
+Summary: A simple commandline app for searching and looking up opensource vulnerabilities
+Home-page: https://github.com/kevinhenry/jaris
+Author: Kevin Henry
+Author-email: kevinhenry@live.com
+License: MIT
+Download-URL: https://github.com/kevinhenry/jarvis/archive/1.0.0.tar.gz
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
+
+# jarvis
+
+A simple commandline app for searching for sunglasses
+
+# Installation
+
+## Using Pip
+
+```
+  $ pip install cver
+```
+
+## Manual
+
+```
+  $ git clone https://github.com/kevinhenry/jarvis
+  $ cd jarvis
+  $ python setup.py install
+```
+
+# Usage
+
+```
+$ jarvis
+```
+
+## Search
+
+`search <keyword>`
+
+```
+$ jarvis search python
+```
+## Lookup
+
+`search <name>`
+
+```
+$ jarvis
+```
+
